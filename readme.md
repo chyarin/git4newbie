@@ -115,13 +115,48 @@
 ## 3 модуль. Работа с ветками
 
 </summary>
+<details>
+<summary>
 
 ### 3.1. Введение
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 3.2. Копирование репозиториев
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 3.3. Ветки: создание, навигация, сравнение
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 3.4. Слияние и удаление веток
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 3.5. Работа с ветками в удалённом репозитории
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 3.6. Шпаргалка
+
+</summary>
+</details>
 </details>
 <details>
 <summary>
@@ -129,10 +164,38 @@
 ## 4 модуль. Совместная работа в Git
 
 </summary>
+<details>
+<summary>
 
 ### 4.1. Введение
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 4.2. Работа с ветками на практике
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 4.3. Работа с pull request
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 4.4. Конфликты
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 4.5. Итог
+</summary>
+</details>
 </details>
