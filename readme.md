@@ -19,12 +19,33 @@
   console.log("I'm a code block!");
   ```  
 </details>
+<details>
+<summary>
 
 ### 1.2. Знакомство с Git
-### 1.3. Командная строка
-### 1.4. Настройка Git
-### 1.5. Шпаргалка
 
+</summary>
+</details>
+<details>
+<summary>
+
+### 1.3. Командная строка
+
+</summary>
+</details>
+<details>
+<summary>
+
+### 1.4. Настройка Git
+
+</summary>
+</details>
+<details>
+<summary>
+
+### 1.5. Шпаргалка
+</summary>
+</details>
 </details>
 <details>
 <summary>
@@ -41,7 +62,6 @@
 ### 2.6. Работа над ошибками в коммитах
 ### 2.7. Просмотр изменений. Игнорирование файлов
 ### 2.8. Шпаргалка
-
 </details>
 <details>
 <summary>
@@ -56,7 +76,6 @@
 ### 3.4. Слияние и удаление веток
 ### 3.5. Работа с ветками в удалённом репозитории
 ### 3.6. Шпаргалка
-
 </details>
 <details>
 <summary>
