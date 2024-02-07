@@ -4,7 +4,7 @@
 <details>
   <summary>
   
-	### Spoiler warning
+	### Spoiler **warning**
 	
   </summary>
   
