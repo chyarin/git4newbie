@@ -2,18 +2,17 @@
 ## 1 модуль. Настройка окружения и знакомство с командной строкой
 ### 1.1. Введение
 <details>
-  <summary>
-  
-	### Spoiler **warning**
-	
-  </summary>
+<summary>
+
+### Spoiler **warning**
+
+</summary>
   
   Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
   
   ```javascript
   console.log("I'm a code block!");
-  ```
-  
+  ```  
 </details>
 
 ### 1.2. Знакомство с Git
