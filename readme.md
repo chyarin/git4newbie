@@ -1,7 +1,9 @@
 # Введение в Git (курс [Яндекс.практикум](https://practicum.yandex.ru/git-basics/?from=catalog))
 <details>
 <summary>
+
 ## 1 модуль. Настройка окружения и знакомство с командной строкой
+
 </summary>
 ### 1.1. Введение
 <details>
