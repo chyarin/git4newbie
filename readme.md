@@ -5,7 +5,6 @@
 ## 1 модуль. Настройка окружения и знакомство с командной строкой
 
 </summary>
-
 <details>
 <summary>
 
@@ -53,15 +52,62 @@
 ## 2 модуль. Начало работы с Git
 
 </summary>
+<details>
+<summary>
 
 ### 2.1. Введение
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.2. Первый коммит
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.3. Работа с GitHub
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.4. Синхронизация репозиториев
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.5. Навигация по коммитам. Статусы файлов
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.6. Работа над ошибками в коммитах
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.7. Просмотр изменений. Игнорирование файлов
+
+</summary>
+</details>
+<details>
+<summary>
+
 ### 2.8. Шпаргалка
+
+</summary>
+</details>
 </details>
 <details>
 <summary>
