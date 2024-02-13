@@ -2882,9 +2882,9 @@ $ git diff 2ea56ab~ 2ea56ab
 
 Если что-то не получилось, обязательно вернитесь к материалам уроков и попробуйте выполнить задание ещё раз.
 
-'git branch'
+`git branch`
 
-'*feature/well-done! # вы здесь'
+`*feature/well-done! # вы здесь`
 </details>
 <details>
 <summary>
